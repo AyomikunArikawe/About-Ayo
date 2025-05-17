@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyomikunArikawe.
 - 👀 I live in Lagos,Nigeria.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development with welnup digital.
 - 💞️ I’m looking to collaborate on projects and ideas.
 - 📫 You can contact at:ayoarik@gmail.com.
 - 😄 Pronouns: ...he/him.
